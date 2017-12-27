@@ -12,7 +12,7 @@ import com.example.android.mygarden.ui.MainActivity;
 /**
  * Implementation of App Widget functionality.
  */
-// TODO (3): Create a PlantWidgetProvider class that extends AppWidgetProvider and set updateAppWidget to handle clicks and launch MainActivity -->
+// COMPLETED (3): Create a PlantWidgetProvider class that extends AppWidgetProvider and set updateAppWidget to handle clicks and launch MainActivity -->
 public class PlantWidgetProvider extends AppWidgetProvider {
 
     static void updateAppWidget(Context context, AppWidgetManager appWidgetManager, int appWidgetId) {

@@ -3,7 +3,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <!-- TODO (2): Create a plant_widget.xml file that contains an ImageView defaulting to @drawable/grass -->
+    <!-- COMPLETED (2): Create a plant_widget.xml file that contains an ImageView defaulting to @drawable/grass -->
     <ImageView
         android:id="@+id/widget_plant_image"
         android:layout_width="wrap_content"
